@@ -1,0 +1,65 @@
+@media only screen and (max-width: 870px) {
+    .servicios {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        margin: 20px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .nn {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    .garantisados {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .info {
+        display: flex;
+        flex-direction: column;
+
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .info {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .infoimg {
+        display: none;
+        justify-content: space-around;
+
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .card {
+        width: 350px;
+    }
+}
+@media only screen and (max-width: 550px) {
+    .carousel {
+        display: none;
+    }
+}
